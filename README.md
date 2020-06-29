@@ -9,7 +9,7 @@ The tables, figures, and calculations included:
 * A summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
 * A bar chart that shows the number of data points per drug regimen.
-<img src="https://github.com/kelseyoros/matplotlib-challenge/blob/master/images/BarPlotNumDataPerDrug.JPG" width="200" height="200">
+<img src="https://github.com/kelseyoros/matplotlib-challenge/blob/master/images/BarPlotNumDataPerDrug.JPG" width="200">
 
 
 * A pie plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the distribution of female or male mice in the study.
