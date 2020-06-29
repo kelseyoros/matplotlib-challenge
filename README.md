@@ -13,7 +13,7 @@ The tables, figures, and calculations included:
 
 
 * A pie plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the distribution of female or male mice in the study.
-![alt text](https://github.com/kelseyoros/matplotlib-challenge/blob/master/images/PieChartMiceGender.JPG "Pie Plot")
+<img src="https://github.com/kelseyoros/matplotlib-challenge/blob/master/images/PieChartMiceGender.JPG" width="400">
 
 * For the most promising treatment regimens (Capomulin, Ramicane, Infubinol, and Ceftamin), I calculated the following:
 	* The final tumor volume of each mouse 
@@ -21,13 +21,13 @@ The tables, figures, and calculations included:
 	* Potential outliers
 
 * A box and whisker plot with potential outliers highlighted of the final tumor volume for all four treatment regimens.
-![alt text](https://github.com/kelseyoros/matplotlib-challenge/blob/master/images/BoxPlot.JPG "Box Plot")
+<img src="https://github.com/kelseyoros/matplotlib-challenge/blob/master/images/BoxPlot.JPG" width="400">
 
 * A line plot of time point versus tumor volume for a single mouse treated with Capomulin.
-![alt text](https://github.com/kelseyoros/matplotlib-challenge/blob/master/images/LinePlot.JPG "Line Plot")
+<img src="https://github.com/kelseyoros/matplotlib-challenge/blob/master/images/LinePlot.JPG" width="400">
 
 * A scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
-![alt text](https://github.com/kelseyoros/matplotlib-challenge/blob/master/images/ScatterPlot.JPG "Scatter Plot")
+<img src="https://github.com/kelseyoros/matplotlib-challenge/blob/master/images/ScatterPlot.JPG" width="400">
 
 * The correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment.
-![alt text](https://github.com/kelseyoros/matplotlib-challenge/blob/master/images/ScatterLinePlot.JPG "Linear Regression Plot")
+<img src="https://github.com/kelseyoros/matplotlib-challenge/blob/master/images/ScatterLinePlot.JPG" width="400">
